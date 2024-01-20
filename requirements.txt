@@ -1,0 +1,5 @@
+torch==2.0.1
+numpy==1.26.3
+torchvision==0.15.2
+tqdm==4.66.1
+jieba==0.42.1

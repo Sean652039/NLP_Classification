@@ -1,0 +1,4 @@
+dataset
+logs
+cnews/*.txt
+words/*.txt
